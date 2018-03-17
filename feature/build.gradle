@@ -30,4 +30,5 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:${versions.kotlin}"
     implementation project(':base')
     implementation project(':dev')
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
 }

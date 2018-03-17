@@ -15,6 +15,9 @@
 		android:supportsRtl="true"
 		android:theme="@style/DevHub">
 		<meta-data
+			android:name="asset_statements"
+			android:resource="@string/asset_statements" />
+		<meta-data
 			android:name="aia-compat-api-min-version"
 			android:value="1" />
 	</application>
